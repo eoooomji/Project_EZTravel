@@ -15,8 +15,8 @@ Tour api 및 공공데이터 포탈을 활용한 서버리스 개발
 Ezen Travel 사이트 소개
 
 - 메인페이지
-![sample1](./img/스크린샷 2023-03-13 173013.png)
+![sample1](./img/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-03-13%20173013.png)
 
 - 상세페이지
 
-![sample2](./img/스크린샷 2023-03-13 173027.png)
+![sample2](./img/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-03-13%20173027.png)
