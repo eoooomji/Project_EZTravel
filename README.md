@@ -18,5 +18,4 @@ Ezen Travel 사이트 소개
 ![sample1](./img/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-03-13%20173013.png)
 
 - 상세페이지
-
 ![sample2](./img/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-03-13%20173027.png)
